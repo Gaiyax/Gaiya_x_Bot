@@ -56,10 +56,10 @@ global.themeemoji = "😋" //ur theme emoji
 global.packname = "GaiYa-X-Ray Bot" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® ＧＡＩＹＡ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://i.ibb.co/7vRrLkS/Picsart-22-08-16-23-11-19-670.jpg"
-global.allmenuimg ="https://i.ibb.co/7vRrLkS/Picsart-22-08-16-23-11-19-670.jpg"
-global.welcomeimg= "https://i.ibb.co/7vRrLkS/Picsart-22-08-16-23-11-19-670.jpg"
-global.gbyeimg = "https://i.ibb.co/7vRrLkS/Picsart-22-08-16-23-11-19-670.jpg"
+global.aliveimg ="https://i.ibb.co/Fzb3qGf/Picsart-22-09-24-08-26-20-644.jpg"
+global.allmenuimg ="https://i.ibb.co/Fzb3qGf/Picsart-22-09-24-08-26-20-644.jpg"
+global.welcomeimg= "https://i.ibb.co/Fzb3qGf/Picsart-22-09-24-08-26-20-644.jpg"
+global.gbyeimg = "https://i.ibb.co/Fzb3qGf/Picsart-22-09-24-08-26-20-644.jpg"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
